@@ -1,0 +1,8 @@
+﻿<html
+       <head>
+       </head>
+
+<h1><b><center>Write an application for you principle for sick leave<center></b></h1>
+<body><br>To</br><br>The principle</br><br>Rizwan Bhatti</br><br>Bahadurabad</br><br>Date:9<sup>th</sup>january 2021</br><br>Subject:Application for sick leave</br><br>Respected Sir,</br></body>
+                                    <body><br>Respectfully,I am here to inform you that, I am suffering from fever since last might</br>The docter adviced me to take 4 days'rest.<br>I therefore request you to grand me 4 days leave from
+09/01/2021 to 12/01/2019</br><br>Thanking you!</br><br>Yours Obedientely</br><br><font color=red>Fatima</font></br><br>Roll no04</br><br>Class:5<sup>th</sup></br><br>Section<sup>,</sup>A<sup>,</sup></br><body>
